@@ -13,4 +13,5 @@ pasos:
 
 ## URL del proyecto
 
-https://maicolcode.github.io/CV-HTML/
+Página del proyecto desarrollado: https://maicolcode.github.io/CV-HTML/
+Página del ejercicio: https://roadmap.sh/projects/single-page-cv
